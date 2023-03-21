@@ -115,10 +115,10 @@
 //           {name: 'yaga', id: 200, marks : 45 },
 //           {name: 'Wick', id: 115, marks : 75 } ] 
 
-let students=[ object1={name: "John" , class: 1, rollno: 1},
-object2={name: "Aman" , class: 2, rollno: 4},
-object3={name: "Ram" , class: 3 , rollno: 6},
-object4={name: "Subham" , class: 4 , rollno: 8},
-object5={name: "Ramesh" , class:5 , rollno: 10},
-object6={name: "Sai" , class:6 , rollno: 12}];
-console.log(students);
+// let students=[ object1={name: "John" , class: 1, rollno: 1},
+// object2={name: "Aman" , class: 2, rollno: 4},
+// object3={name: "Ram" , class: 3 , rollno: 6},
+// object4={name: "Subham" , class: 4 , rollno: 8},
+// object5={name: "Ramesh" , class:5 , rollno: 10},
+// object6={name: "Sai" , class:6 , rollno: 12}];
+// console.log(students);
